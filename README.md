@@ -2,8 +2,6 @@
 
 Watch the video
 
-<video src='https://raw.githubusercontent.com/burgil/coding-videos-beginners/refs/heads/main/HelloWorld.mp4' width='422'></video>
-
 ## Remotion video
 
 ![Animated Remotion Logo](https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif)
