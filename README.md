@@ -2,6 +2,8 @@
 
 Watch the video
 
+<video src="https://github.com/user-attachments/assets/d4660d15-8cc5-4547-96ab-49fc583aea91" width="352" height="720"></video>
+
 ## Remotion video
 
 ![Animated Remotion Logo](https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif)
