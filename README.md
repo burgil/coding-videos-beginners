@@ -2,7 +2,7 @@
 
 Watch the video
 
-<video src='HelloWorld.mp4' width='422'></video>
+<video src='https://raw.githubusercontent.com/burgil/coding-videos-beginners/refs/heads/main/HelloWorld.mp4' width='422'></video>
 
 ## Remotion video
 
