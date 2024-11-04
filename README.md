@@ -2,7 +2,7 @@
 
 Watch the video
 
-<video src='HelloWorld.mp4' width=422 />
+<video src='HelloWorld.mp4' width='422'></video>
 
 ## Remotion video
 
