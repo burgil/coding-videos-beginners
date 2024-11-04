@@ -1,6 +1,8 @@
 # Coding Videos - Beginners Version
 
-![Watch HelloWorld.mp4](HelloWorld.mp4)
+Watch the video
+
+<video src='HelloWorld.mp4' width=422 />
 
 ## Remotion video
 
